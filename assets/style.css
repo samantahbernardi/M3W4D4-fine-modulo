@@ -74,7 +74,7 @@ body {
 
 .movies img:hover {
     transform:scale(1.3);
-    overflow: hidden;
+    transition-duration: .6s;
 }
 
 .row {
