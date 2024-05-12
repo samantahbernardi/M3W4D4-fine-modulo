@@ -139,16 +139,25 @@ padding-top:2em;
 }
 
 
-
-
-
 .links {
     display: flex;
     flex-direction: column;
 }
 
-/*BUTTONS*/
+  .service-btn {
+        width:130px;
+        height:35px;
+        margin-bottom:1em;
+        background-color: transparent;
+        color:rgb(88, 84, 84);
+        border:solid 1px rgb(88, 84, 84);
+        box-shadow: none;
+    }
 
+    .copyright {
+        color:rgb(88, 84, 84);
+    }
+/*top section buttons*/
     .top-section-right .view-opt {
         background-color: transparent;
         color:white;
@@ -162,3 +171,5 @@ padding-top:2em;
         height:10px;
     }
  
+    
+  
