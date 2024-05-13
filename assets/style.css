@@ -171,5 +171,8 @@ padding-top:2em;
         height:10px;
     }
  
-    
-  
+    .col-sm-6 {
+        top:auto;
+        left:20%;
+        transform:translateX(20%);
+    }
